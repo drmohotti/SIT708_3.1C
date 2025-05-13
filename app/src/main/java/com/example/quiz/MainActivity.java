@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+<<<<<<< HEAD
         Button btnOpenCalculator = findViewById(R.id.btnOpenCalculator);
         btnOpenCalculator.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -60,6 +61,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+=======
+>>>>>>> a1084e9904218f4f9123d6da317662f53ae6027e
 
     }
 }
