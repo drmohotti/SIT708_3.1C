@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of an emulator in mobile development?",
+      "options": ["To design logos", "To simulate a mobile device for testing apps", "To compile code faster"],
+      "correct_answer": "To simulate a mobile device for testing apps"
+    },
+    {
+      "question": "Which programming language is commonly used for Android app development?",
+      "options": ["Swift", "Java", "Kotlin"],
+      "correct_answer": "Kotlin"
+    },
+    {
+      "question": "What does an APK file represent in Android development?",
+      "options": ["A source code file", "The installation package for Android apps", "A design template"],
+      "correct_answer": "The installation package for Android apps"
+    },
+    {
+      "question": "What is the purpose of an emulator in mobile development?",
+      "options": ["To design logos", "To simulate a mobile device for testing apps", "To compile code faster"],
+      "correct_answer": "To simulate a mobile device for testing apps"
+    },
+    {
+      "question": "What does an APK file represent in Android development?",
+      "options": ["A source code file", "The installation package for Android apps", "A design template"],
+      "correct_answer": "The installation package for Android apps"
+    }
+  ]
+}
+
+
